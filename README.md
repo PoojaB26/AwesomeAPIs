@@ -20,7 +20,7 @@ Helps you with communication.
 
 ### :computer: Other APIs
 
-No category yet
+These APIs didnt fit in any particular category yet
 
  | Requires Key | API  | Description  |    Web   |   Android   |  
  |--------------|------|--------------|----------|-------------|

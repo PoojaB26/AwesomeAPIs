@@ -7,7 +7,15 @@ Helps you with communication.
 
  | Requires Key | API  | Description  |    Web   |   Android   |  
  |--------------|------|--------------|----------|-------------|
-| :heavy_check_mark: | [Twilio](https://www.twilio.com/) | Communication API | :heavy_check_mark: |  :heavy_check_mark:  | 
+| :heavy_check_mark: | [Twilio](https://www.twilio.com/) | Cloud communications platform for building SMS, Voice & Messaging applications on an API built for global scale | :heavy_check_mark: |  :heavy_check_mark:  | 
+
+### :triangular_flag_on_post:	 Mapping and Location APIs
+
+Helps you with communication.
+
+ | Requires Key | API  | Description  |    Web   |   Android   |  
+ |--------------|------|--------------|----------|-------------|
+| :question: | [Hypertrack](https://www.hypertrack.com) | Build applications with location tracking with near-zero battery | :heavy_check_mark: |  :heavy_check_mark:  | 
 
 
 ### :computer: Other APIs
@@ -16,4 +24,4 @@ No category yet
 
  | Requires Key | API  | Description  |    Web   |   Android   |  
  |--------------|------|--------------|----------|-------------|
-| :heavy_check_mark: | [Okta](https://developer.okta.com/) | Okta adds authentication, authorization, and user management to your web or mobile app | :heavy_check_mark: |  :heavy_check_mark:  |
+| :question: | [Okta](https://developer.okta.com/) | Okta adds authentication, authorization, and user management to your web or mobile app | :heavy_check_mark: |  :heavy_check_mark:  |

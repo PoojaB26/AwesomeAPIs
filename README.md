@@ -11,7 +11,7 @@ Helps you with communication.
 
 ### :triangular_flag_on_post:	 Mapping and Location APIs
 
-Helps you with communication.
+APIs recommended for all programmatic requests for location data, nearby locations, outlets, etc. 
 
  | Requires Key | API  | Description  |    Web   |   Android   |  
  |--------------|------|--------------|----------|-------------|

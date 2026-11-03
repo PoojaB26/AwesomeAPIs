@@ -25,3 +25,4 @@ These APIs didnt fit in any particular category yet
  | Requires Key | API  | Description  |    Web   |   Android   |  
  |--------------|------|--------------|----------|-------------|
 | :question: | [Okta](https://developer.okta.com/) | Okta adds authentication, authorization, and user management to your web or mobile app | :heavy_check_mark: |  :heavy_check_mark:  |
+| :x: | [Bucketlist.nl Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | Daily travel and experience inspiration in JSON; no API key | :heavy_check_mark: | :question: |
